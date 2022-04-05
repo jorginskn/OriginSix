@@ -1,3 +1,5 @@
+![preview](https://user-images.githubusercontent.com/77112497/161840630-695a8ebd-dcb1-4314-b437-a83c39a902e3.png)
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
